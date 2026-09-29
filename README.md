@@ -47,16 +47,6 @@ My interests include **software development, data analysis, system architecture,
 🤝 Communication, organization, and teamwork
 
 
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=michellynascimento&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellynascimento&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ##  Philosophy
 
 > _“Na tecnologia, cada desafio me lembra que minha trajetória não é sobre já saber tudo, mas sobre ter coragem de aprender, evoluir e construir o caminho que ainda estou descobrindo."_
